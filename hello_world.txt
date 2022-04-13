@@ -1,0 +1,1 @@
+add some text to document then stage it for upload
